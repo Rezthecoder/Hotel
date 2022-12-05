@@ -1,3 +1,1 @@
 # Hotelsite_frontend
-
-# Hotel
